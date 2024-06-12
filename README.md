@@ -1,6 +1,6 @@
 # VHDL Snake Game
 
-This project implements a classic Snake game using VHDL, designed for the Nexys 3 FPGA board. The game is built to provide a fully functional and interactive gaming experience by leveraging the capabilities of VHDL and FPGAs.
+This project implements a classic Snake game using VHDL, designed for the Nexys 3 FPGA board and monitored by a 640x480 VGA display. The game is built to provide a fully functional and interactive gaming experience by leveraging the capabilities of VHDL and FPGAs.
 
 ## Project Overview
 
@@ -18,15 +18,5 @@ This Snake game allows users to control the movement of a snake on the screen, c
 - **Joypad Interface**: Captures user inputs for controlling the snake.
 - **Frequency Divider**: Generates necessary clock signals.
 
-## Getting Started
-
-### Prerequisites
-
-- Nexys 3 FPGA board
-- Xilinx ISE Design Suite
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/mehmet416/VHDL-Snake-Game.git
+## Credits
+Developed by Enes Kuzuoğlu and Mehmet Emin Algül under the supervision of Şenol Mutlu at Boğaziçi University.
