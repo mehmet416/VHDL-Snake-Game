@@ -18,5 +18,8 @@ This Snake game allows users to control the movement of a snake on the screen, c
 - **Joypad Interface**: Captures user inputs for controlling the snake.
 - **Frequency Divider**: Generates necessary clock signals.
 
+## Gameplay Video
+Watch the gameplay video on YouTube: https://youtube.com/shorts/fywubfjq5C8?si=hkuCs1CAcIabdUC8
+
 ## Credits
 Developed by Enes Kuzuoğlu and Mehmet Emin Algül under the supervision of Şenol Mutlu at Boğaziçi University.
